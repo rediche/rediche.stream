@@ -18,6 +18,11 @@ export default {
     return {
       channel: 'rediche'
     }
+  },
+  head() {
+    return {
+      title: 'Rediche – Twitch Streamer'
+    }
   }
 }
 </script>
