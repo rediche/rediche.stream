@@ -13,6 +13,7 @@ module.exports = {
     },
   },
   variants: {
+    textColor: ['responsive', 'hover', 'focus', 'focus-within'],
     margin: ['responsive', 'last']
   },
   plugins: [
