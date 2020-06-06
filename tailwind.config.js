@@ -5,9 +5,17 @@
 ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
 */
 module.exports = {
-  theme: {},
+  theme: {
+    aspectRatio: { // defaults to {}
+      'none': 0,
+      'square': [1, 1],
+      '16/9': [16, 9],
+    },
+  },
   variants: {
     margin: ['responsive', 'last']
   },
-  plugins: []
+  plugins: [
+    require('tailwindcss-aspect-ratio')
+  ]
 }

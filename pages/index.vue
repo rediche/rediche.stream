@@ -1,11 +1,16 @@
 <template>
-  <div class="container">
-    Rediche
+  <div class="mx-4">
+    <TwitchPlayer class="rounded overflow-hidden shadow-md" channel="rediche" />
   </div>
 </template>
 
 <script>
+import TwitchPlayer from '~/components/TwitchPlayer'
+
 export default {
+  components: {
+    TwitchPlayer
+  }
 }
 </script>
 
