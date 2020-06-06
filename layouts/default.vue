@@ -1,12 +1,23 @@
 <template>
-  <div class="bg-gray-900 min-h-screen text-white">
+  <div>
+    <Navigation />
     <nuxt />
   </div>
 </template>
 
+<script>
+import Navigation from '~/components/navigation/Navigation'
+
+export default {
+  components: {
+    Navigation
+  }
+}
+</script>
+
 <style>
 html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
@@ -15,6 +26,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  @apply bg-gray-900 text-gray-100;
 }
 
 *,
