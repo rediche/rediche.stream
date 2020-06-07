@@ -1,0 +1,4 @@
+@import './animations/_vars.css';
+@import './animations/_base.css';
+@import './animations/fadeInLeft.css';
+@import './animations/fadeInRight.css';

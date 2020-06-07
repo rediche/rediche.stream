@@ -1,7 +1,7 @@
 <template>
   <div class="mx-4 grid grid-cols-1 lg:grid-cols-12 gap-4">
-    <TwitchPlayer class="rounded overflow-hidden shadow-lg col-span-8" :channel="channel" />
-    <TwitchChat class="hidden lg:block rounded overflow-hidden shadow-lg col-span-4" :channel="channel" />
+    <TwitchPlayer class="rounded overflow-hidden shadow-lg col-span-8 animated fadeInLeft" :channel="channel" />
+    <TwitchChat class="hidden lg:block rounded overflow-hidden shadow-lg col-span-4 animated fadeInRight" :channel="channel" />
   </div>
 </template>
 
