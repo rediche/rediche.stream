@@ -10,7 +10,7 @@
     </div>
     <div v-else class="flex flex-col items-center justify-center inset-0 absolute rounded bg-gray-800 shadow-xl text-gray-600">
       <div class="text-5xl font-black leading-tight">Offline</div>
-      <div class="text-sm">Check back later</div>
+      <div class="text-sm">Check back later 👀</div>
     </div>
   </div>
 
