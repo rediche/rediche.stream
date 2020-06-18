@@ -18,7 +18,7 @@ export default {
   },
   computed: {
     embedUrl() {
-      return `https://www.twitch.tv/embed/${this.channel}/chat?darkpopout`
+      return `https://www.twitch.tv/embed/${this.channel}/chat?darkpopout&parent=rediche.stream`
     }
   }
 }
