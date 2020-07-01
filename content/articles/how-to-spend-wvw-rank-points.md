@@ -3,7 +3,7 @@ title: How to spend your World vs. World rank points - World vs. World Basics - 
 createdAt: 2020-06-24
 ---
 
-# How to spend <br/>your World vs. World rank points
+# How to spend your World vs. World rank points
 
 This is a guide on how to spend your World vs. World rank points in, what I think is, the most optimized way for a new World vs. World player.
 
