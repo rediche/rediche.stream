@@ -1,37 +1,35 @@
 ---
-title: How to spend your WvW rank points - WvW Basics - Guild Wars 2 Guide
+title: How to spend your World vs. World rank points - World vs. World Basics - Guild Wars 2 Guide
 createdAt: 2020-06-24
 ---
 
-# How to spend your WvW rank points
+# How to spend <br/>your World vs. World rank points
 
 This is a guide on how to spend your World vs. World rank points in, what I think is, the most optimized way for a new World vs. World player.
 
 If you do not like reading guides, I also made a video that has the same content as this article.
 
-<div class="aspect-ratio-16/9 relative">
+<div class="aspect-ratio-16/9 relative my-8">
   <iframe class="absolute inset-0 w-100 h-100" src="https://www.youtube.com/embed/ZDT5xT66slk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What is ranks? 
 
-First off, what is ranks?
-
-Plain and simple, ranks is the leveling system in WvW. 
+Plain and simple, ranks is the leveling system in World vs. World. 
 
 When you see an enemy that has the name "Platinum Recruit", you can look up what rank he or she is. In this case, it would be between rank 2845 and 2945. The highest rank you can get is rank 10.000.
 
 Instead of getting higher stats for your character every time you rank up, you get ability points to spend. These ability points are usually referred to as rank points by a lot of players.
 
-So how do you spend the ability points? Well you put them into WvW abilities.
+So how do you spend the ability points? Well you put them into World vs. World abilities.
 
-## What is WvW Abilities?
+## What is World vs. World Abilities?
 
-What are WvW abilities you might ask?
+What are World vs. World abilities you might ask?
 
 Think of Abilities like PvE masteries. You have to get some XP, which will get you points that you can then spend on permanent upgrades for your account. 
 
-The most notable abilities will give you access to the WvW Mount Warclaw, gliding and auto looting in WvW. It will also give you access to more damage against NPCs in WvW, improve the damage you do with siege and even carry more supplies.
+The most notable abilities will give you access to the World vs. World Mount Warclaw, gliding and auto looting in World vs. World. It will also give you access to more damage against NPCs in World vs. World, improve the damage you do with siege and even carry more supplies.
 
 At the time of this video, you will have to reach rank 1226 to max out your abilities.
 
@@ -119,10 +117,8 @@ Let's get started!
 
     If you made it this far, you made it to the end. The remaining abilities are all tied to different types of siege. With siege, you should choose the order yourself depending of what you feel like. They are all useful for something. Just make sure that you finish them completely before you start the next. Most siege will not be worth it, unless you are maxed out.
 
-## The end
-
-That's it, that is my priority list. Since you probably don't have all the points to spend right now, there will be a link in the description summarizing this list that you can add to your bookmarks.
+That's it, that is my priority list. Since you probably don't have all the points to spend right now, make sure to bookmark this page for reference later.
 
 I want to thank Vardy and Humlet for providing some really good feedback on how this list should be prioritized.
 
-As always, if you have suggestions for more videos, feel free to comment or join the discord, link in the description. If you like the video, click that like button and if you don't, click the dislike button. Thank you so much for watching and remember to check me out on twitch, twitch.tv/rediche.
+As always, if you have suggestions for more videos, feel free to (https://gw2.link/discord)[join the discord].
