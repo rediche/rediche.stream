@@ -1,12 +1,16 @@
 <template>
-  <div>
-    <h1>Article!</h1>
+  <PageContent>
     <nuxt-content :document="page" />
-  </div>
+  </PageContent>
 </template>
 
 <script>
+import PageContent from '~/components/PageContent'
+
 export default {
+  components: {
+    PageContent
+  },
   async asyncData({ $content, params }) {
     const page = await $content('articles', params.slug).fetch()
 
