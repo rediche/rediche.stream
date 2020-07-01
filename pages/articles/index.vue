@@ -1,5 +1,5 @@
 <template>
-  <div class="px-4 mx-auto mt-12">
+  <div class="px-4 mx-auto mt-12 articles">
     <h1 class="text-5xl font-black">Articles & guides</h1>
     <ul class="divide-y-2 divide-gray-800">
       <li class="py-6" v-for="(page, index) in pages" :key="index">
@@ -21,3 +21,9 @@ export default {
   },
 }
 </script>
+
+<style scoped>
+.articles {
+  max-width: 680px;
+}
+</style>
