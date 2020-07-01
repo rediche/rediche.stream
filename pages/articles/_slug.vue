@@ -19,8 +19,18 @@ export default {
     }
   },
   head() {
+    let meta = [];
+
+    if (this.page.description) {
+      meta.push({ 
+        hid: 'description', 
+        name: 'description', 
+        content: this.page.description
+      });
+    }
     return {
-      title: this.page.title || 'Untitled'
+      title: this.page.title || 'Untitled',
+      meta
     }
   }
 }
