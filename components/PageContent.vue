@@ -36,6 +36,10 @@
     @apply mb-1;
   }
 
+  & a {
+    @apply underline;
+  }
+
   & ol {
     @apply list-decimal pl-8 my-4;
   }
