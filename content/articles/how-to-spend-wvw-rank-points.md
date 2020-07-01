@@ -121,4 +121,4 @@ That's it, that is my priority list. Since you probably don't have all the point
 
 I want to thank Vardy and Humlet for providing some really good feedback on how this list should be prioritized.
 
-If you have suggestions for more guides, feel free to [reach out on discord](https://gw2.link/discord) or on [twitter](https://twitter.com/thegeil).
+If you have suggestions for more guides, feel free to reach out on [discord](https://gw2.link/discord) or on [twitter](https://twitter.com/thegeil).
