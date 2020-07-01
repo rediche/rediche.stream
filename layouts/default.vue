@@ -2,15 +2,18 @@
   <div>
     <Navigation />
     <nuxt />
+    <PageFooter />
   </div>
 </template>
 
 <script>
 import Navigation from '~/components/navigation/Navigation'
+import PageFooter from '~/components/PageFooter'
 
 export default {
   components: {
-    Navigation
+    Navigation,
+    PageFooter
   }
 }
 </script>
