@@ -25,11 +25,11 @@ export default {
       meta.push({ 
         hid: 'description', 
         name: 'description', 
-        content: this.page.description
+        content: this.page.seo.description
       });
     }
     return {
-      title: this.page.title || 'Untitled',
+      title: this.page.seo.title || 'Untitled',
       meta
     }
   }

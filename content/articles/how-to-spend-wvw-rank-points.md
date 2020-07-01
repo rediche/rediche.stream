@@ -1,6 +1,9 @@
 ---
-title: How to spend your World vs. World rank points - World vs. World Basics - Guild Wars 2 Guide
-description: Guide on how to spend your World vs. World rank points.
+title: How to spend your World vs. World rank points
+excerpt: A guide on how to spend your World vs. World rank points in, what I think is, the most optimized way for a new World vs. World player.
+seo:
+    title: How to spend your World vs. World rank points - World vs. World Basics - Guild Wars 2 Guide
+    description: Guide on how to spend your World vs. World rank points.
 createdAt: 2020-06-24
 ---
 
