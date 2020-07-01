@@ -19,6 +19,7 @@ export default {
   ** Customize the progress-bar color
   */
   loading: { color: '#fff' },
+  components: true,
   /*
   ** Global CSS
   */
@@ -35,7 +36,8 @@ export default {
   */
   buildModules: [
     // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    '@nuxt/components'
   ],
   /*
   ** Nuxt.js modules
@@ -46,7 +48,7 @@ export default {
     '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt-community/dotenv-module
     '@nuxtjs/dotenv',
-    '@nuxt/content'
+    '@nuxt/content',
   ],
   /*
   ** Axios module configuration

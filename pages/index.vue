@@ -18,8 +18,8 @@
 </template>
 
 <script>
-import TwitchPlayer from '~/components/twitch/Player'
-import TwitchChat from '~/components/twitch/Chat'
+import TwitchPlayer from '~/components/global/twitch/TwitchPlayer'
+import TwitchChat from '~/components/global/twitch/TwitchChat'
 
 export default {
   components: {
