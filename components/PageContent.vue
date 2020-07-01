@@ -9,19 +9,19 @@
   max-width: 680px;
 
   & h1 {
-    @apply text-5xl font-sans font-black leading-tight mb-4 mt-12;
+    @apply text-4xl font-sans font-black leading-tight mb-4 mt-12;
   }
 
   & h2 {
-    @apply text-3xl font-sans font-black leading-tight mt-8 mb-4;
-  }
-
-  & h3 {
     @apply text-2xl font-sans font-black leading-tight mt-8 mb-4;
   }
 
-  & h4 {
+  & h3 {
     @apply text-xl font-sans font-black leading-tight mt-8 mb-4;
+  }
+
+  & h4 {
+    @apply text-lg font-sans font-black leading-tight mt-8 mb-4;
   }
 
   & h5 {
@@ -33,7 +33,7 @@
   }
 
   & p {
-    @apply mb-1;
+    @apply mb-2;
   }
 
   & a {
@@ -50,6 +50,24 @@
 
   & textarea {
     @apply text-gray-900;
+  }
+
+  @screen md {
+    & h1 {
+      @apply text-5xl;
+    }
+
+    & h2 {
+      @apply text-3xl;
+    }
+
+    & h3 {
+      @apply text-2xl;
+    }
+
+    & h4 {
+      @apply text-xl;
+    }
   }
 }
 </style>
