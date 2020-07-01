@@ -8,8 +8,6 @@ createdAt: 2020-06-24
 
 This is a guide on how to spend your World vs. World rank points in, what I think is, the most optimized way for a new World vs. World player.
 
-If you do not like reading guides, I also made a video that has the same content as this article.
-
 <div class="aspect-ratio-16/9 relative w-full my-8 rounded overflow-hidden shadow-lg">
   <iframe class="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/ZDT5xT66slk?modestbranding=1&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
