@@ -1,33 +1,35 @@
 <template>
-  <div class="container px-4 mx-auto page__content">
+  <div class="px-4 mx-auto page__content">
     <slot />
   </div>
 </template>
 
 <style type="scss" scoped>
 .page__content::v-deep {
+  max-width: 680px;
+
   & h1 {
-    @apply text-5xl font-black leading-tight mb-4;
+    @apply text-4xl font-black leading-tight mb-4;
   }
 
   & h2 {
-    @apply text-4xl font-black leading-tight mt-8 mb-4;
-  }
-
-  & h3 {
     @apply text-3xl font-black leading-tight mt-8 mb-4;
   }
 
-  & h4 {
+  & h3 {
     @apply text-2xl font-black leading-tight mt-8 mb-4;
   }
 
-  & h5 {
+  & h4 {
     @apply text-xl font-black leading-tight mt-8 mb-4;
   }
 
-  & h6 {
+  & h5 {
     @apply text-lg font-black leading-tight mt-8 mb-4;
+  }
+
+  & h6 {
+    @apply font-black leading-tight mt-8 mb-4;
   }
 
   & p {
