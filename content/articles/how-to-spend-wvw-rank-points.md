@@ -122,4 +122,4 @@ That's it, that is my priority list. Since you probably don't have all the point
 
 I want to thank Vardy and Humlet for providing some really good feedback on how this list should be prioritized.
 
-As always, if you have suggestions for more videos, feel free to (https://gw2.link/discord)[join the discord].
+Ff you have suggestions for more videos, feel free to [join the discord](https://gw2.link/discord).
