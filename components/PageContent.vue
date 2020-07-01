@@ -47,5 +47,9 @@
   & li {
     @apply mb-4;
   }
+
+  & textarea {
+    @apply text-gray-900;
+  }
 }
 </style>
