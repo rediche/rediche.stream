@@ -31,7 +31,7 @@ Think of Abilities like PvE masteries. You have to get some XP, which will get y
 
 The most notable abilities will give you access to the World vs. World Mount Warclaw, gliding and auto looting in World vs. World. It will also give you access to more damage against NPCs in World vs. World, improve the damage you do with siege and even carry more supplies.
 
-At the time of this video, you will have to reach rank 1226 to max out your abilities.
+At the time of this guide, you will have to reach rank 1226 to max out your abilities.
 
 ## What do I pick first?
 
@@ -121,4 +121,4 @@ That's it, that is my priority list. Since you probably don't have all the point
 
 I want to thank Vardy and Humlet for providing some really good feedback on how this list should be prioritized.
 
-Ff you have suggestions for more videos, feel free to [join the discord](https://gw2.link/discord).
+If you have suggestions for more guides, feel free to [reach out on discord](https://gw2.link/discord) or on [twitter](https://twitter.com/thegeil).
