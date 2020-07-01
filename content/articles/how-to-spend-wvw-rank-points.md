@@ -10,8 +10,8 @@ This is a guide on how to spend your World vs. World rank points in, what I thin
 
 If you do not like reading guides, I also made a video that has the same content as this article.
 
-<div class="aspect-ratio-16/9 relative w-full my-8">
-  <iframe class="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/ZDT5xT66slk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="aspect-ratio-16/9 relative w-full my-8 rounded overflow-hidden shadow-lg">
+  <iframe class="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/ZDT5xT66slk?modestbranding=1&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What is ranks? 
