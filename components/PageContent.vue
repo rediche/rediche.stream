@@ -1,7 +1,7 @@
 <template>
-  <div class="px-4 mx-auto font-serif page__content">
+  <article class="px-4 mx-auto font-serif page__content">
     <slot />
-  </div>
+  </article>
 </template>
 
 <style type="scss" scoped>
