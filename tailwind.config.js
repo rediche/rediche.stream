@@ -5,6 +5,9 @@
 ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
 */
 module.exports = {
+  purge: [
+    './**/*.vue'
+  ],
   theme: {
     aspectRatio: { // defaults to {}
       'none': 0,
