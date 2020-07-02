@@ -22,7 +22,7 @@ export default {
   },
   computed: {
     embedUrl() {
-      return `https://player.twitch.tv/?channel=${this.channel}`
+      return `https://player.twitch.tv/?channel=${this.channel}&parent=rediche.stream`
     }
   }
 }
