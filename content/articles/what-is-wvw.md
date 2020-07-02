@@ -1,6 +1,7 @@
 ---
 title: What is World vs. World?
 excerpt: A simple introduction to what World vs. World is in Guild Wars 2. This articles will introduce you to the general theme and also how to understand winning and losing.
+publishedAt: 2020-06-19
 seo:
     title: What is World vs. World? - World vs. World Basics - Guild Wars 2 Guide
     description: A simple introduction to World vs. World in Guild Wars 2.
