@@ -20,7 +20,7 @@ export default {
   },
   head() {
     let meta = [];
-console.log(this.$route)
+
     if (this.page.description) {
       meta.push({ 
         hid: 'description', 
