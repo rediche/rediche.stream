@@ -33,7 +33,14 @@ export default {
   },
   head() {
     return {
-      title: 'Articles & guides'
+      title: 'Articles & guides',
+      meta: [
+        { 
+          hid: 'description', 
+          name: 'description', 
+          content: 'Articles and guides about Guild Wars 2 and other things.'
+        }
+      ]
     }
   }
 }
