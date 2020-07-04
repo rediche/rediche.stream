@@ -1,5 +1,6 @@
 <template>
   <iframe frameborder="0"
+    loading="lazy"
     scrolling="false"
     :id="channel"
     :src="embedUrl"

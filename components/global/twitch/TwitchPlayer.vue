@@ -1,6 +1,7 @@
 <template>
   <div class="relative w-100 aspect-ratio-16/9">
     <iframe
+      loading="lazy"
       class="absolute"
       width="100%"
       height="100%"
