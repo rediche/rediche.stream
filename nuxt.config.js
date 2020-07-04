@@ -53,6 +53,7 @@ export default {
   ** See https://axios.nuxtjs.org/options
   */
   axios: {
+    prefix: '/api'
   },
   /*
   ** Build configuration
