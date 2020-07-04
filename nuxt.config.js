@@ -53,7 +53,9 @@ export default {
   ** See https://axios.nuxtjs.org/options
   */
   axios: {
-    baseURL: process.env.API_URL || 'http://localhost:3000/api'
+    baseURL: process.env.VERCEL_URL
+      ? process.env.VERCEL_URL + '/api'
+      : 'http://localhost:3000/api'
   },
   /*
   ** Build configuration
