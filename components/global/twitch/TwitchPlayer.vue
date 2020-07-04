@@ -23,7 +23,9 @@ export default {
   },
   computed: {
     embedUrl() {
-      return `https://player.twitch.tv/?channel=${this.channel}&parent=rediche.stream`
+      const url = new URL(window.location);
+      const host = url.hostname;
+      return `https://player.twitch.tv/?channel=${this.channel}&parent=${host}`
     }
   }
 }
