@@ -44,6 +44,10 @@
     @apply list-decimal pl-8 my-4;
   }
 
+  & ul {
+    @apply list-disc pl-8 my-4;
+  }
+
   & li {
     @apply mb-4;
   }
