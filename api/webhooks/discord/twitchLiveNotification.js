@@ -75,8 +75,7 @@ module.exports = (req, res) => {
 
       return { stream, game }
     })
-    .then(({ stream, game }) => res.send({stream, game}))
-    // .then(({ stream, game }) => notifyDiscord(stream, game))
-    // .then(() => res.status(200).end())
+    .then(({ stream, game }) => notifyDiscord(stream, game))
+    .then(() => res.status(200).end())
     .catch(error => res.status(500).send(error))
 }
