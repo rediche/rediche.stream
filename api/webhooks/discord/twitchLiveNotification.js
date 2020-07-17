@@ -1,5 +1,6 @@
 import { parseISO, format } from 'date-fns'
 const axios = require('axios').default;
+const url = require('url')
 
 import auth from '../../../twitch/auth'
 import getStreams from '../../../twitch/helix/streams'
@@ -46,9 +47,9 @@ const notifyDiscord = (stream, game) => {
 }
 
 module.exports = (req, res) => {
-  const requestUrl = new URL(req.url, process.env.VERCEL_URL)
+  const queryObject = url.parse(req.url, true).query;
 
-  if (!requestUrl.searchParams.has('access_token') || requestUrl.searchParams.get('access_token') !== webhookAccessToken) {
+  if (!queryObject.access_token || queryObject.access_token !== webhookAccessToken) {
     res.status(401).end()
     return
   }
