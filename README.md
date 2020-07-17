@@ -1,6 +1,6 @@
 # rediche.stream
 
-> Rediche&#39;s stream website
+> Rediche&#39;s stream website 
 
 ## Build Setup
 
