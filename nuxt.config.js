@@ -50,7 +50,7 @@ export default {
     '@nuxtjs/sitemap'
   ],
   sitemap: {
-    'hostname': process.env.VERCEL_URL
+    'hostname': 'https://rediche.stream'
   },
   generate: {
     async routes () {
