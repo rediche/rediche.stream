@@ -47,7 +47,19 @@ export default {
     '@nuxtjs/axios',
     '@nuxtjs/pwa',
     '@nuxt/content',
+    '@nuxtjs/sitemap'
   ],
+  sitemap: {
+    'hostname': process.env.VERCEL_URL
+  },
+  generate: {
+    async routes () {
+      const { $content } = require('@nuxt/content')
+      const files = await $content('articles').fetch()
+
+      return files.map(file => file.path === '/index' ? '/' : file.path)
+    }
+  },
   /*
   ** Axios module configuration
   ** See https://axios.nuxtjs.org/options
