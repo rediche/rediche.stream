@@ -1,4 +1,13 @@
-# How tower upgrades, improvements and tactics work in World vs World
+---
+title: How tower upgrades, improvements and tactics work in World vs. World
+excerpt: Learn about tower upgrades, how Improvments and Tactics are different and how they can help your server in WvW.
+publishedAt: 2020-12-05
+seo:
+    title: How tower upgrades, improvements and tactics work in World vs. World - World vs. World Basics - Guild Wars 2 Guide
+    description: Learn about tower upgrades, how Improvments and Tactics are different and how they can help your server in WvW.
+---
+
+# How tower upgrades, improvements and tactics work in World vs. World
 
 Today we are talking about upgrading towers and the Improvements and Tactics you can add to them. All of these will give your world benefits as long as you hold the objective.
 
