@@ -7,7 +7,8 @@
       <MenuItem><nuxt-link :to="{ name: 'articles' }">Articles & guides</nuxt-link></MenuItem>
       <MenuItem><nuxt-link :to="{ name: 'commands-and-sfx' }">Commands & SFX</nuxt-link></MenuItem>
       <MenuItem><a href="http://gw2.ninja" target="_blank">GW2 Ninja</a></MenuItem>
-      <MenuItem><a href="http://gw2.link/redichediscord" target="_blank">Discord</a></MenuItem>
+      <MenuItem><a href="https://gw2.link/discord" target="_blank" rel="noopener noreferer">Discord</a></MenuItem>
+      <MenuItem><a href="https://www.patreon.com/rediche" target="_blank" rel="noopener noreferer">Patreon</a></MenuItem>
     </Menu>
   </nav>
 </template>
