@@ -5,6 +5,7 @@
     </nuxt-link>
     <Menu class="ml-auto">
       <MenuItem><nuxt-link :to="{ name: 'articles' }">Articles & guides</nuxt-link></MenuItem>
+      <MenuItem><nuxt-link :to="{ name: 'commands-and-sfx' }">Commands & SFX</nuxt-link></MenuItem>
       <MenuItem><a href="http://gw2.ninja" target="_blank">GW2 Ninja</a></MenuItem>
       <MenuItem><a href="http://gw2.link/redichediscord" target="_blank">Discord</a></MenuItem>
     </Menu>
