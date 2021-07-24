@@ -31,7 +31,7 @@ As a new player I would mostly recommend you start out running with zergs. These
 
 As for the gear itself, then most build websites will show the gear in ascended quality. This is the optimal gear to run, but it is not required if you're just starting out and still working on your first set of ascended. If that is the case, then get the right gear but, in Exotic quality. This is much cheaper and much easier to get, you can literally buy it straight off the Trading Post.
 
-So where should you find your build? As of this guide, the go-to place for large-scale World vs. World [builds is GW2Mists](https://gw2mists.com/builds). I have left a link in the description for you. If you want an up-to-date place to find links to build websites, then go to my twitch, on [twitch.tv/rediche](http://twitch.tv/rediche) and type `!builds` in chat, my chatbot will give you a nice list of websites to check out.
+So where should you find your build? As of this guide, the go-to place for large-scale World vs. World [builds is GW2Mists](https://gw2mists.com/builds). If you want an up-to-date place to find links to build websites, then go to my twitch, on [twitch.tv/rediche](http://twitch.tv/rediche) and type `!builds` in chat, my chatbot will give you a nice list of websites to check out.
 
 ## Choosing a map
 
