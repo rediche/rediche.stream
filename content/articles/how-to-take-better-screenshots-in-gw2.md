@@ -1,7 +1,7 @@
 ---
 title: How to take better screenshots in Guild Wars 2?
 excerpt: So you want to take better screenshots? Guild Wars 2 has some great settings that you can use to tweak how the camera is placed, get the graphics to look better, and even take higher quality screenshot image files.
-publishedAt: 2021-08-12
+publishedAt: 2021-09-05
 seo:
     title: How to take better screenshots in Guild Wars 2? - GW2 Guide
     description: Guild Wars 2 has some great settings that you can use to tweak how the camera is placed, get the graphics to look better, and even take higher quality screenshot image files.
