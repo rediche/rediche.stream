@@ -19,7 +19,7 @@ Before we dive into what alliances are and how they will work, let's have a brie
 
 ## A bit of history
 
-In the old system of World vs. World, your account is directly attached to a world. This was a choice you had to make back when you created your account. Over the years megaservers were added to PvE and PvP meaning that suddenly the world you were on only affected World vs. World. This is overall a bad system because you don't necessarily know what world to choose when you are a new player. (show screenshots of "what server should I choose" from Reddit)
+In the old system of World vs. World, your account is directly attached to a world. This was a choice you had to make back when you created your account. Over the years megaservers were added to PvE and PvP meaning that suddenly the world you were on only affected World vs. World. This is overall a bad system because you don't necessarily know what world to choose when you are a new player.
 
 Over the years the World vs. World population declined, as any MMO does after the initial rush of players. To ensure that there was enough activity in World vs. World, the developers added links. It was a system of linking together worlds into teams. Every second month a relink would happen to ensure a constant shuffle of populations as players would move around over time, potentially making a single link more populated than it should be.
 
@@ -61,7 +61,7 @@ In the end, each bucket will be as evenly full as possible, giving us more balan
 
 ## Conclusion
 
-Alliances is going to be the biggest update we have ever seen in World vs. World because it fundamentally changes how teams are made and thereby how matchmaking happens. And it shapes a future for World vs. World that looks brighter than ever.
+Alliances is going to be one of the biggest update we have ever seen in World vs. World because it fundamentally changes how teams are made and thereby how matchmaking happens. And it shapes a future for World vs. World that looks brighter than ever.
 
 One of the biggest wins from my side is that whenever new players come to the game, they can join a guild and not have to worry about transferring to play with them in World vs. World. With this system, players are encouraged to organize themselves before a population balance takes place, not after, which I hope is going to bring a lot more fun matches in the future.
 
