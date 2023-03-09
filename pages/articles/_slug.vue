@@ -23,18 +23,23 @@ export default {
 
     let meta = [
       {
+        hid: "og:type",
+        name: "og:type",
         property: "og:type",
         content: "article"
       },
       {
+        hid: "og:title",
         property: "og:title",
         content: title
       },
       {
+        hid: "og:site_name",
         property: "og:site_name",
         content: "rediche.stream"
       },
       {
+        hid: "og:author",
         property: "og:author",
         content: "Rediche"
       },
@@ -47,19 +52,20 @@ export default {
         content: this.page.seo.description
       });
       meta.push({
-        name: 'og:description', 
+        hid: 'og:description', 
+        property: 'og:description', 
         content: this.page.seo.description
       });
     }
 
     if (this.page.publishedAt) {
       meta.push({
-        hid: 'published',
+        hid: 'article:published_time',
         property: 'article:published_time',
         content: this.page.publishedAt
       });
       meta.push({
-        hid: 'published',
+        hid: 'article:modified_time',
         property: 'article:modified_time',
         content: this.page.publishedAt
       });
