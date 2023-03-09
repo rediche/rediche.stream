@@ -21,7 +21,7 @@ export default {
   head() {
     let meta = [];
 
-    if (this.page.description) {
+    if (this.page.seo.description) {
       meta.push({ 
         hid: 'description', 
         name: 'description', 
