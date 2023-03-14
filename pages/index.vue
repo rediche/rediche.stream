@@ -1,19 +1,10 @@
 <template>
-  <div v-if="live" class="mx-4 grid grid-cols-1 lg:grid-cols-12 gap-4">
-    <TwitchPlayer class="rounded overflow-hidden shadow-lg col-span-8" :channel="channel" />
-    <TwitchChat class="hidden lg:block rounded overflow-hidden shadow-lg col-span-4" :channel="channel" />
-  </div>
-  <div v-else class="grid grid-cols-1 lg:grid-cols-12">
-  <div class="relative aspect-ratio-16/9 mx-4 lg:col-start-2 lg:col-end-12">
-    <div v-if="loading" class="flex items-center justify-center inset-0 absolute text-gray-600">
-      Checking live status...
-    </div>
-    <div v-else class="flex flex-col items-center justify-center inset-0 absolute rounded bg-gray-800 shadow-xl text-gray-600">
-      <div class="text-5xl font-black leading-tight">Offline</div>
-      <div class="text-sm">Check back later 👀</div>
-    </div>
-  </div>
-
+  <div class="mx-4 aspect-ratio-16/9 relative">
+    <iframe
+      src="https://player.twitch.tv/?channel=rediche&parent=rediche.stream"
+      class="absolute w-full h-full rounded overflow-hidden shadow-lg"
+      allowfullscreen>
+    </iframe>
   </div>
 </template>
 
@@ -34,7 +25,7 @@ export default {
     }
   },
   created() {
-    this.getLiveStatus()
+    // this.getLiveStatus()
   },
   head() {
     return {
