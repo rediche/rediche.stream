@@ -20,7 +20,7 @@ export default {
   },
   head() {
     const title = this.page.seo.title || 'Untitled';
-
+    console.log(this.$nuxt.$route);
     let meta = [
       {
         hid: "og:type",
@@ -71,9 +71,18 @@ export default {
       });
     }
 
+    const path = this.$nuxt.$route.fullPath.replace('/', '');
+    const canonical = `https://rediche.stream${path}/`;
+
     return {
       title,
-      meta
+      meta,
+      link: [
+        {
+          rel: "canonical",
+          href: canonical
+        }
+      ]
     }
   }
 }
