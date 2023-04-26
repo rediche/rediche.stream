@@ -20,7 +20,7 @@ export default {
   },
   head() {
     const title = this.page.seo.title || 'Untitled';
-    console.log(this.$nuxt.$route);
+
     let meta = [
       {
         hid: "og:type",
